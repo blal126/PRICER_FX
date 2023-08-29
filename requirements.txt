@@ -4,4 +4,4 @@ plotly==5.15.0
 scipy==1.8.0
 streamlit==1.25.0
 streamlit_option_menu==0.3.6
-streamlit-aggrid 
+streamlit-aggrid==0.2.3
